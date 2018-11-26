@@ -1,0 +1,21 @@
+createdAt: "2018-11-25T23:53:42.659Z"
+updatedAt: "2018-11-26T00:03:21.102Z"
+type: "MARKDOWN_NOTE"
+folder: "4b8c85d9cf67e473e3d6"
+title: "Work Plan"
+content: '''
+  ## Work Plan 
+  
+  - ### Date (26-11-2018 to 2-12-2018)
+    - Making before registration CC and MI for test dataset at 25%
+    - Testing with partitition_Img patches with 10 overlap
+    - Investigate discriminative patch extraction from same location.
+    - Making code for on the fly patch extraction from moving and target from same location
+    - Training with new discrminative patches
+    - Writing the method of the paper
+    - Investigate MI in tensorflow
+    - Train DDN with MI on new patch extraction method.
+'''
+tags: []
+isStarred: false
+isTrashed: false
